@@ -1,23 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e32ac4e7-c425-42e4-84ed-f7ba1bcc57a6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="e32ac4e7-c425-42e4-84ed-f7ba1bcc57a6" name="Changes" comment="Убрала папку env в гит игнор&#10;Перенесла main.py, папки Templates и Static из папки env">
+      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/normalize.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/env/main.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/env/static/fonts/ProximaNova-Light.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/env/static/fonts/ProximaNova-Light.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/env/static/fonts/ProximaNova-Light.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/env/static/fonts/ProximaNova-Semibold.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/env/static/fonts/ProximaNova-Semibold.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/env/static/fonts/ProximaNova-Semibold.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/env/static/index.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/env/static/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/env/static/normalize.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/env/templates/images/dory.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/env/templates/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/styles.css" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -163,6 +153,14 @@
       <option name="presentableId" value="Default" />
       <updated>1642275654776</updated>
     </task>
+    <task id="LOCAL-00001" summary="Убрала папку env в гит игнор&#10;Перенесла main.py, папки Templates и Static из папки env">
+      <created>1642688985337</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1642688985337</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -175,6 +173,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Убрала папку env в гит игнор&#10;Перенесла main.py, папки Templates и Static из папки env" />
+    <option name="LAST_COMMIT_MESSAGE" value="Убрала папку env в гит игнор&#10;Перенесла main.py, папки Templates и Static из папки env" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
