@@ -1,7 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e32ac4e7-c425-42e4-84ed-f7ba1bcc57a6" name="Changes" comment="" />
+    <list default="true" id="e32ac4e7-c425-42e4-84ed-f7ba1bcc57a6" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/static/fonts/ProximaNova-Light.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/static/fonts/ProximaNova-Light.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/static/fonts/ProximaNova-Light.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/static/fonts/ProximaNova-Semibold.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/static/fonts/ProximaNova-Semibold.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/static/fonts/ProximaNova-Semibold.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/static/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/static/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/static/normalize.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/templates/images/dory.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/templates/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles.css" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,6 +32,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="GitSEFilterConfiguration">
     <file-type-list>
       <filtered-out-file-type name="LOCAL_BRANCH" />
@@ -24,6 +44,7 @@
     </file-type-list>
   </component>
   <component name="ProjectId" id="23kQYohQMOaPzqjv5Si06O399se" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -32,6 +53,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Other File Types" />
   </component>
   <component name="RecentsManager">
@@ -39,7 +61,7 @@
       <recent name="$PROJECT_DIR$/env/templates" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.main (1)">
+  <component name="RunManager" selected="Python.main">
     <configuration name="main (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Nastya_app" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -126,8 +148,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.main (1)" />
         <item itemvalue="Python.main" />
+        <item itemvalue="Python.main (1)" />
         <item itemvalue="Python.request_test" />
       </list>
     </recent_temporary>
@@ -142,6 +164,17 @@
       <updated>1642275654776</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
