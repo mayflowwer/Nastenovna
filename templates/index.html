@@ -29,58 +29,32 @@
       <div class="container">
         <div class="menu_nav">
           <a href="#" class="categories__link">Все</a>
-          <a href="#" class="categories__link">Животные</a>
-          <a href="#" class="categories__link">Семья</a>
-          <a href="#" class="categories__link">Природа</a>
-          <a href="#" class="categories__link">Другое</a>
+          <a href="/tag/animals" class="categories__link">Животные</a>
+          <a href="/tag/family" class="categories__link">Семья</a>
+          <a href="/tag/nature" class="categories__link">Природа</a>
+          <a href="/tag/other" class="categories__link">Другое</a>
         </div>
       </div>
     </div>
     <div class="gallery">
+    {% for picture in pictures %}
       <div class="gallery-container">
         <div class="picture-block">
           <div class="picture-img">
-            <img src="/templates/images/picture1.png" width="180"/>
+            <img src="{{ picture.path }}" width="180"/>
           </div>
           <div class="picture-tag-block">
-            <div class="picture-tag">#animals</div>
+            <div class="picture-tag">{{ picture.tag }}</div>
             <div class="likes">
-              <div class="picture-likes">15</div>
+              <div class="picture-likes">{{ picture.likes }}</div>
               <div class="picture-likes-image">
             </div>
-              <img src="/templates/images/heart.png" width="15" height="15"/>
-            </div>
-          </div>
-        </div>
-        <div class="picture-block">
-          <div class="picture-img">
-            <img src="/templates/images/picture1.png" width="180" height="120"/>
-          </div>
-          <div class="picture-tag-block">
-            <div class="picture-tag">#animals</div>
-            <div class="likes">
-              <div class="picture-likes">15</div>
-              <div class="picture-likes-image">
-            </div>
-              <img src="/templates/images/heart.png" width="15" height="15"/>
-            </div>
-          </div>
-        </div>
-        <div class="picture-block">
-          <div class="picture-img">
-            <img src="/templates/images/picture1.png" width="180" height="120"/>
-          </div>
-          <div class="picture-tag-block">
-            <div class="picture-tag">#animals</div>
-            <div class="likes">
-              <div class="picture-likes">15</div>
-              <div class="picture-likes-image">
-            </div>
-              <img src="/templates/images/heart.png" width="15" height="15"/>
+              <img src="static/images/heart.png" width="15" height="15"/>
             </div>
           </div>
         </div>
       </div>
+    {% endfor %}
     </div>
   </header>
     <script src="static/index.js"></script>
