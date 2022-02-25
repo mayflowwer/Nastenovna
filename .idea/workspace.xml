@@ -1,17 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e32ac4e7-c425-42e4-84ed-f7ba1bcc57a6" name="Changes" comment="Добавлен блок gallery в html-файле">
-      <change afterPath="$PROJECT_DIR$/app/config.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/functions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/models/picture.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_requests.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/api_test.py" afterDir="false" />
+    <list default="true" id="e32ac4e7-c425-42e4-84ed-f7ba1bcc57a6" name="Changes" comment="config.py is added">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/index.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -224,7 +215,14 @@
       <option name="project" value="LOCAL" />
       <updated>1642784915110</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="config.py is added">
+      <created>1645779445212</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1645779445212</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -243,6 +241,7 @@
     <MESSAGE value="Убрала папку env в гит игнор&#10;Перенесла main.py, папки Templates и Static из папки env" />
     <MESSAGE value="Исправлен пусть index.css в html-файле" />
     <MESSAGE value="Добавлен блок gallery в html-файле" />
-    <option name="LAST_COMMIT_MESSAGE" value="Добавлен блок gallery в html-файле" />
+    <MESSAGE value="config.py is added" />
+    <option name="LAST_COMMIT_MESSAGE" value="config.py is added" />
   </component>
 </project>
